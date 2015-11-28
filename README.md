@@ -2,7 +2,10 @@
 this is a music player view,it can load a thumbnail image of song and rotate it when playing.
 on center of this view,there is a pause/play button,which can control play state.
 ##Screen
+(the gif file is so large that loading slowly)
 <img src="https://github.com/fallblank/CustomMusicPlayer/blob/master/Screenshot/Untitled.gif"/>
+##Screenshot
+![Image text](https://raw.githubusercontent.com/fallblank/CustomMusicPlayer/master/Screenshot/screenshot1.JPG)![Image text](https://raw.githubusercontent.com/fallblank/CustomMusicPlayer/master/Screenshot/screenshot2.JPG)
 
 
 #License
