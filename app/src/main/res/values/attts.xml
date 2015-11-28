@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomPlayer">
+        <attr name="cover_default" format="reference"/>
+        <attr name="button_background" format="color"/>
+        <attr name="cover_background" format="color"/>
+    </declare-styleable>
+</resources>
