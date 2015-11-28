@@ -2,8 +2,10 @@
 this is a music player view,it can load a thumbnail image of song and rotate it when playing.
 on center of this view,there is a pause/play button,which can control play state.
 
+
+
 #License
-GNU GENERAL PUBLIC LICENSE
+                    GNU GENERAL PUBLIC LICENSE
                        Version 2, June 1991
 
  Copyright (C) 1989, 1991 Free Software Foundation, Inc., <http://fsf.org/>
